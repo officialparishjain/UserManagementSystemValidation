@@ -24,7 +24,10 @@ _**Services**:_ The services layer contains the business logic of the applicatio
 
 _**Repository:**_ The repository layer is responsible for interacting with the database. It uses Spring Data JPA to perform CRUD (create, read, update, delete) operations on entities.
 
-# Database Design
+# Database Structure Used
 I have used ArrayList as DataBase
+
+# Project Summary
+In this project i have create different endpoints like and used differet vaalidation for the end ponits
 
 
